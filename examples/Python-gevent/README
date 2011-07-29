@@ -1,0 +1,4 @@
+Examples in Python that differ from vanilla Python examples for use with the
+gevent-zeromq <https://github.com/traviscline/gevent-zeromq> library.
+Mostly avoiding use of Poller and devices that block down in c/c++.
+See LICENSE in examples directory
