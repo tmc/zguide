@@ -3,7 +3,7 @@
 # Uses REQ socket to query one or more services
 #
 # Author: Daniel Lundin <dln(at)eintr(dot)org>
-#
+# Author: Travis Cline <travis.cline@gmail.com> - gevent-zeromq adaption
 
 import sys
 import time
